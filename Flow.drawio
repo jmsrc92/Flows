@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="9IYEK_wxPiSf8hYUbTBJ">
-    <mxGraphModel dx="2037" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,8 +219,18 @@
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-4" target="PAcAt_rOkVFhLOpjQl2_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-42" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-9">
+          <mxGeometry x="-0.3305" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-4" target="PAcAt_rOkVFhLOpjQl2_-31">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-43" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-32">
+          <mxGeometry x="-0.0169" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-4" value="GOM Scanning&lt;div&gt;Required&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1700" y="152.5" width="135" height="125" as="geometry" />
@@ -240,11 +250,26 @@
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-20" target="PAcAt_rOkVFhLOpjQl2_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-39" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-23">
+          <mxGeometry x="-0.2536" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-20" target="PAcAt_rOkVFhLOpjQl2_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-40" value="Polyworks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-25">
+          <mxGeometry x="-0.1796" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-20" target="PAcAt_rOkVFhLOpjQl2_-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-41" value="Zeiss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-27">
+          <mxGeometry x="-0.5746" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-20" value="Analysis Required?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1180" width="135" height="125" as="geometry" />
@@ -271,16 +296,69 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-31" value="Surface Inspection" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2045.99" y="152.5" width="135" height="125" as="geometry" />
+          <mxGeometry x="2250" y="152.5" width="135" height="125" as="geometry" />
         </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-33" target="PAcAt_rOkVFhLOpjQl2_-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PAcAt_rOkVFhLOpjQl2_-33" value="Understand Set &lt;br/&gt;up time&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="2058.49" y="410" width="110" height="110" as="geometry" />
+          <mxGeometry x="2262.5" y="675" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PAcAt_rOkVFhLOpjQl2_-35" value="Understand Scanning time due to size/material/&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="2058.49" y="730" width="110" height="110" as="geometry" />
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-35" target="PAcAt_rOkVFhLOpjQl2_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-35" value="Understand Scanning time due to size/material/ optical technology" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2262.5" y="1140" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-37" target="PAcAt_rOkVFhLOpjQl2_-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-50" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-49">
+          <mxGeometry x="-0.3143" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-37" target="PAcAt_rOkVFhLOpjQl2_-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-55" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-54">
+          <mxGeometry x="-0.0753" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-37" value="Analysis Required?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1350" width="135" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-47" value="No Analysis&lt;div&gt;Export Data&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1187.5" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-48" value="No Analysis&lt;div&gt;Export Data&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2262.5" y="1570" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-51" target="PAcAt_rOkVFhLOpjQl2_-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-57" value="Mountains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-56">
+          <mxGeometry x="-0.1503" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAcAt_rOkVFhLOpjQl2_-51" target="PAcAt_rOkVFhLOpjQl2_-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-60" value="Polyworks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PAcAt_rOkVFhLOpjQl2_-59">
+          <mxGeometry x="-0.0597" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-51" value="Analysis Software" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2550.01" y="1350" width="135" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-52" value="Mountains Map&amp;nbsp; Analysis" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2804.01" y="1361.25" width="135.99" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcAt_rOkVFhLOpjQl2_-58" value="Polyworks&amp;nbsp; Analysis" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2550.01" y="1570" width="135.99" height="102.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
