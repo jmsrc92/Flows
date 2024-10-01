@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="9IYEK_wxPiSf8hYUbTBJ">
-    <mxGraphModel dx="4753" dy="3037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,11 +598,21 @@
         <mxCell id="d30VLbZXiumYJPV09XTk-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d30VLbZXiumYJPV09XTk-51" target="d30VLbZXiumYJPV09XTk-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d30VLbZXiumYJPV09XTk-83" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d30VLbZXiumYJPV09XTk-60">
+          <mxGeometry x="-0.2978" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d30VLbZXiumYJPV09XTk-51" value="Romer Arm&lt;div&gt;Measurement&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4432.38" y="152.5" width="135" height="125" as="geometry" />
         </mxCell>
         <mxCell id="d30VLbZXiumYJPV09XTk-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d30VLbZXiumYJPV09XTk-54" target="d30VLbZXiumYJPV09XTk-72">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d30VLbZXiumYJPV09XTk-84" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d30VLbZXiumYJPV09XTk-74">
+          <mxGeometry x="-0.488" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d30VLbZXiumYJPV09XTk-54" value="&lt;div&gt;First Principles&lt;/div&gt;&lt;div&gt;Measurement&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4920" y="152.5" width="135" height="125" as="geometry" />
